@@ -8,5 +8,3 @@ Ejemplo de Github<br>
   <li>3</li>
   <li>4</li>
 </ul>
-
-<button class="btn btn-success">Botón</button>
